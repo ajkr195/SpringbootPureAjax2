@@ -1,2 +1,2 @@
-# SpringbootPureAjax2
-SpringBoot 100 Percent Ajax
+# SpringbootPureAjax
+SpringBoot 100% Pure Ajax
